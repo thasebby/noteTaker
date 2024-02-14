@@ -11,4 +11,4 @@ This app was made to be a notetaker. Future developments will include figuring o
 
 ## Links
 - [GitHub repo](https://github.com/thasebby/noteTaker.git)
-- 
+- [Heroku Link](https://hidden-harbor-51856-60d1c10ef951.herokuapp.com/)
